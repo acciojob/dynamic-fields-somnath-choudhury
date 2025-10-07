@@ -26,7 +26,7 @@ const App = () => {
   // Handle form submission
   const handleSubmit = (e) => {
     e.preventDefault();
-    console.log("Submitted Data:", fields);
+    console.log([fields]);
     alert(JSON.stringify(fields, null, 2));
   };
 
