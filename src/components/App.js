@@ -91,7 +91,7 @@ const App = () => {
               borderRadius: "5px",
             }}
           >
-            Add More
+            Add More..
           </button>
 
           <button
